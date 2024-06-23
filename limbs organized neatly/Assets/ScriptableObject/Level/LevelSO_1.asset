@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5acdd2d06325524a896aa46cddc7c71, type: 3}
+  m_Name: LevelSO_1
+  m_EditorClassIdentifier: 
+  textArray:
+  - 11111
+  - 22222
+  - 33333
+  availableSlotArray:
+  - {x: 0, y: 0}
+  - {x: 0, y: 1}
+  - {x: 0, y: 2}
+  - {x: 0, y: 3}
+  - {x: 0, y: 4}
+  - {x: 1, y: 0}
+  - {x: 1, y: 1}
+  - {x: 1, y: 2}
+  - {x: 1, y: 3}
+  - {x: 1, y: 4}
+  - {x: 2, y: 0}
+  - {x: 2, y: 1}
+  - {x: 2, y: 2}
+  - {x: 2, y: 3}
+  - {x: 2, y: 4}
+  - {x: 3, y: 0}
+  - {x: 3, y: 1}
+  - {x: 3, y: 2}
+  - {x: 3, y: 3}
+  - {x: 3, y: 4}
+  - {x: 4, y: 0}
+  - {x: 4, y: 1}
+  - {x: 4, y: 2}
+  - {x: 4, y: 3}
+  - {x: 4, y: 4}
+  limbOrginPositionArray:
+  - limbSO: {fileID: 11400000, guid: 24dd550be19ce0d4886e900aa9ccc4cf, type: 2}
+    orginPosition: {x: 6, y: 4}
+  - limbSO: {fileID: 11400000, guid: 24dd550be19ce0d4886e900aa9ccc4cf, type: 2}
+    orginPosition: {x: -6, y: 4}
+  - limbSO: {fileID: 11400000, guid: 9083740f6aa706b4f834a44c6df5ee21, type: 2}
+    orginPosition: {x: 7, y: 2}
+  - limbSO: {fileID: 11400000, guid: 492d6fc3c83014a43af0420de0320203, type: 2}
+    orginPosition: {x: -7, y: 2}
+  - limbSO: {fileID: 11400000, guid: ae9661056b0b25b42b92e773b8c334f9, type: 2}
+    orginPosition: {x: 6, y: 0}
+  - limbSO: {fileID: 11400000, guid: ae9661056b0b25b42b92e773b8c334f9, type: 2}
+    orginPosition: {x: -6, y: 0}
+  - limbSO: {fileID: 11400000, guid: 01dac546f5242434a865b47ce9ad9a7f, type: 2}
+    orginPosition: {x: 7, y: -4}
